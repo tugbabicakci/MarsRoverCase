@@ -1,0 +1,8 @@
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\obj\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.AssemblyInfoInputs.cache
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\obj\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.AssemblyInfo.cs
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\obj\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\bin\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.deps.json
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\bin\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.dll
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\bin\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.pdb
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\obj\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.dll
+C:\Users\tugba\source\repos\MarsRoverCase\MarsRoverCase.Bussiness\obj\Debug\netcoreapp3.1\MarsRoverCase.Bussiness.pdb
