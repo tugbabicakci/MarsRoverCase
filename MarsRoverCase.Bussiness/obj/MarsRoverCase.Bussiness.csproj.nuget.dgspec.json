@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tugba\\source\\repos\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj": {}
+    "C:\\Users\\tugba\\source\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tugba\\source\\repos\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj": {
+    "C:\\Users\\tugba\\source\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tugba\\source\\repos\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj",
+        "projectUniqueName": "C:\\Users\\tugba\\source\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj",
         "projectName": "MarsRoverCase.Bussiness",
-        "projectPath": "C:\\Users\\tugba\\source\\repos\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj",
+        "projectPath": "C:\\Users\\tugba\\source\\MarsRoverCase\\MarsRoverCase.Bussiness\\MarsRoverCase.Bussiness.csproj",
         "packagesPath": "C:\\Users\\tugba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tugba\\source\\repos\\MarsRoverCase\\MarsRoverCase.Bussiness\\obj\\",
+        "outputPath": "C:\\Users\\tugba\\source\\MarsRoverCase\\MarsRoverCase.Bussiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
